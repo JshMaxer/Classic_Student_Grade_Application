@@ -199,7 +199,7 @@ namespace Classic_Student_Grade_Application
             this.btngenerate.Font = new System.Drawing.Font("Consolas", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btngenerate.Location = new System.Drawing.Point(158, 62);
             this.btngenerate.Name = "btngenerate";
-            this.btngenerate.Size = new System.Drawing.Size(144, 156);
+            this.btngenerate.Size = new System.Drawing.Size(148, 156);
             this.btngenerate.TabIndex = 2;
             this.btngenerate.Text = "GENERATE AVERAGE";
             this.btngenerate.UseVisualStyleBackColor = true;
